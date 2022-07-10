@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Behram-Khattak
-- 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently learning Php (Oop) & Laravel.
-- 💞️ I’m looking to collaborate on the projects related to Front-End Technologies becouse iam certainly good at it, and also want to learn new Technologies while working on the projects.
-- 📫 Contact me on Gmail:(behramkttk9@gmail.com)
 
-<!---
-Behram-Khattak/Behram-Khattak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 A self-learner and a passionate Full-Stack Web Developer.
+
+- 🌱 Currently working and learning in Back-End technologies like Php & Laravel, Frameworks like React,
+Vue and Cloud technologies like Google Cloud. 
+
+- 💞️ I’m looking to collaborate on the projects related to Front-End and Back-End Technologies,
+and also want to learn new Technologies while working on the projects.
+
+- 📫 Find me on Gmail:(behramkttk9@gmail.com) also on,
+LinkedIn:(https://www.linkedin.com/in/behram-khattak-20304b1b4)
